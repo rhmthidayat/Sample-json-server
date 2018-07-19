@@ -9,8 +9,7 @@
       "password": "storey123",
       "token": "1QpwL5tk3e4Pnpja7X3"
   },
-  "users": {
-    "data": [
+  "users": [
         {
             "id": 1,
             "first_name": "Kevin",
@@ -29,8 +28,7 @@
             "last_name": "Kennal",
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
         }
-    ]
-  },
+  ],
   "profile": {
     "name": "Andy Toy Storey",
     "email": "storey@mail.com",
