@@ -1,10 +1,39 @@
 {
   "login": {
-      "email": "dummy@mail.com",
-      "password": "dummy123",
+      "email": "storey@mail.com",
+      "password": "storey123",
       "token": "1QpwL5tk3e4Pnpja7X3"
   },
+  "register": {
+      "email": "storey@mail.com",
+      "password": "storey123",
+      "token": "1QpwL5tk3e4Pnpja7X3"
+  },
+  "users": {
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Kevin",
+            "last_name": "Jolla",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+        },
+        {
+            "id": 2,
+            "first_name": "David",
+            "last_name": "Morilles",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+        },
+        {
+            "id": 3,
+            "first_name": "Buck",
+            "last_name": "Kennal",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+        }
+    ]
+  },
   "profile": {
-    "name": "dummy"
+    "name": "Andy Toy Storey",
+    "email": "storey@mail.com"
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
   }
 }
