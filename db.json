@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "login": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      "email": "dummy@mail.com",
+      "password": "dummy123",
+      "token": "1QpwL5tk3e4Pnpja7X3"
   ],
   "profile": {
     "name": "typicode"
